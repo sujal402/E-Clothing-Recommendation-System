@@ -1,7 +1,6 @@
 
-# 🛒 E-Commerce Website
-
-This project is a full-featured E-Commerce website built using **React** for the front-end and **Spring Boot** for the back-end. The application allows users to browse products, manage their shopping cart, place orders, and perform various e-commerce-related actions. Admin functionalities are also included for managing products, categories, and orders.
+# 👗🛍️ E-Clothing Recommendation System
+This project is a full-featured **E-Clothing Recommendation System**! website built using **React** for the front-end and **Spring Boot** for the back-end. The application allows users to browse products, manage their shopping cart, place orders, and perform various e-commerce-related actions. Admin functionalities are also included for managing products, categories, and orders.
 
 ## 🖥️ Technologies Used
 
